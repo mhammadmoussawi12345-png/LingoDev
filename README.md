@@ -1,0 +1,2 @@
+# LingoDev
+Offline English
